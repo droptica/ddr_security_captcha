@@ -1,6 +1,6 @@
 {
-    "name": "drupal/ddr_security_captcha",
-    "type": "drupal-module",
+    "name": "droptica/ddr_security_captcha",
+    "type": "drupal-recipe",
     "description": "Installs and configures the CAPTCHA module for enhanced form security.",
     "keywords": ["recipe", "Drupal recipes", "Drupal recipe"],
     "license": "GPL-2.0-or-later",
