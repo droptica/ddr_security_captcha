@@ -1,5 +1,3 @@
-_core:
-  default_config_hash: 2r-Hwv0M1XV4-Kzc-yfPvdvaeEkrFR3xvEhYGlusdHM
 image_captcha_fonts_preview_map_cache:
   c4e145adf0facb2a37cdc58551af9a93a5232c722a278c14e6b3a89cf0224586:
     uri: modules/contrib/captcha/modules/image_captcha/fonts/Tuffy/Tuffy_Bold.ttf
