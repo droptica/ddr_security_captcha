@@ -1,0 +1,7 @@
+name: 'DDR Security CAPTCHA'
+type: 'Droptica’s Drupal Recipes'
+description: 'Installs and configures the CAPTCHA module for enhanced form security.'
+
+install:
+  - drupal:captcha
+  - drupal:image_captcha

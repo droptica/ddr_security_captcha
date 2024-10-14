@@ -1,0 +1,10 @@
+{
+    "name": "drupal/ddr_security_captcha",
+    "type": "drupal-module",
+    "description": "Installs and configures the CAPTCHA module for enhanced form security.",
+    "keywords": ["Drupal", "Security", "CAPTCHA"],
+    "license": "GPL-2.0-or-later",
+    "require": {
+        "drupal/captcha": "^2.0"
+    }
+}
